@@ -1,1 +1,8 @@
+class Task2 {
+byte zero = 0;
+string output = "W" + zero + "w";
 
+    public static void main(String[] args) {
+        System.out.println(output); 
+    }
+}
