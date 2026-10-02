@@ -7,8 +7,8 @@ class Task2 {
         short ll = 11;
         float two = 2.0f;
         boolean tama = true;
-        String output = H + e + ll + zero + " " ;
-        String output2 = Wo + zero + "rld " + two + " " + tama ;
+        String output = "" + H + e + ll + zero + " " ;
+        String output2 = "" + Wo + zero + "rld " + two + " " + tama ;
 
         System.out.print(output); 
         System.out.println(output2);
