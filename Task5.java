@@ -1,4 +1,6 @@
 import java.util.*;
+
+import Task9.Math;
 public class Task5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
