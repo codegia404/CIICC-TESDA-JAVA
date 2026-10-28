@@ -6,7 +6,7 @@ class Student {
         this.lastName = lastName;
     }
     void printFullName(){
-        String fullname = firstName + lastName;
+        String fullname = firstName +" " + lastName;
         System.out.println(fullname);
 
 
